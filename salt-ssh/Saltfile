@@ -1,0 +1,4 @@
+salt-ssh:
+  config_dir: config
+  roster_file: roster.yaml
+  log_file: ./salt.log

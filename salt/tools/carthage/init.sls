@@ -1,0 +1,2 @@
+carthage:
+  pkg.installed
